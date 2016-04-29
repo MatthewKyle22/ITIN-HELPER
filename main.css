@@ -1,0 +1,11 @@
+nav {
+    background:#7f7f7f;
+    background:rgba(19,15,225,0.5);
+}
+.left-align {
+    font-size: 22px;
+    padding-left: 5%;
+}
+.right {
+    padding-right: 3%;
+}
